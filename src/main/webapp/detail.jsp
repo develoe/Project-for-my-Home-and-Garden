@@ -38,7 +38,7 @@
                 <td>
                 <td>
                     <%
-                        Senzor person = (Senzor) request.getAttribute("pers");
+                        Senzor person = (Senzor) request.getAttribute("senz");
                         out.println(person.getId());
                     %>
                 </td>
