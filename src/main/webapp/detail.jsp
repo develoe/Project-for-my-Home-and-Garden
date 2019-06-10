@@ -1,4 +1,4 @@
-<%@ page import="com.PersonModel.Senzor" %><%--
+<%@ page import="com.personModel.Senzor" %><%--
   Created by IntelliJ IDEA.
   User: root
   Date: 09.06.2019

@@ -1,6 +1,6 @@
-package com.WebHome;
+package com.webHome;
 
-import com.PersonModel.Senzor;
+import com.personModel.Senzor;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

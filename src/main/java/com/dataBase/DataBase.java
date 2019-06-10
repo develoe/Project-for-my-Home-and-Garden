@@ -1,6 +1,6 @@
 package com.dataBase;
 
-import com.PersonModel.Senzor;
+import com.personModel.Senzor;
 
 public class DataBase {
     public Senzor getId(){

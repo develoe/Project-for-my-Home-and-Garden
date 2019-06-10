@@ -1,4 +1,4 @@
-package com.PersonModel;
+package com.personModel;
 
 public class Senzor {
     private int id;
